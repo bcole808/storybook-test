@@ -14,15 +14,15 @@
 
 .storybook-header h1 {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 40px;
   line-height: 1;
   margin: 6px 0 6px 10px;
   display: inline-block;
   vertical-align: top;
 }
 
-.storybook-header button + button {
-  margin-left: 10px;
+.storybook-header button  {
+  margin: 5px;
 }
 
 .storybook-header .welcome {
